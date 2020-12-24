@@ -7,7 +7,10 @@
 
 The first lesson is never to make assumptions. For e.g., If we have any questions while working, then we've to ask this immediately to our seniors or experienced guys. If we think about why we ask him/her? What will they think about me after asking the questions? Don't assume like this. Ask questions directly whatever question you have.
 
- <img src="Assume.jpeg" alt="hi" class="center"/>
+<p align="center">
+  <img src="Assume.jpeg" />
+</p>
+
 
 After asking the question, don't wait for a reply like the Government office. Questions should be gets solved quickly. If they don't reply to your questions, then ask them repeatedly. Never assume he/she will busy. Remind them. If we need to work in the professional world, then we've to proactive about our questions.
 
