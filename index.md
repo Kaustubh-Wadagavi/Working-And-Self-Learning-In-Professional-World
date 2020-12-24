@@ -7,6 +7,7 @@
 
 The first lesson is never to make assumptions. For e.g., If we have any questions while working, then we've to ask this immediately to our seniors or experienced guys. If we think about why we ask him/her? What will they think about me after asking the questions? Don't assume like this. Ask questions directly whatever question you have.
 
+ <img src="Assume.jpeg" alt="hi" class="inline"/>
  ![myimage-alt-tag](https://github.com/Kaustubh-Wadagavi/Working-And-Self-Learning-In-Professional-World/blob/gh-pages/Assume.jpeg)
 
 
