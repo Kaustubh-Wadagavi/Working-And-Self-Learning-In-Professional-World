@@ -32,7 +32,7 @@ While self-studying, if we have a question, search on google, ask experts, and u
 
 We have to proactive about our every work. Asking your friends and colleagues what they are doing? What is the benefit of that work? Also, we need to improve our proactiveness daily. Think daily about what I did? and what I need to improve daily. 
 
-<img src="Proactive.png" alt="hi" class="inline"/>
+<img src="Proactive.png" alt="hi" class="inline" align="center"/>
 
 Remember, before sleeping, what you did? And what you need to improve your work. It will enhance your self-development.
 
