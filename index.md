@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## How To Self Learn And Work In Professional World
 
-You can use the [editor on GitHub](https://github.com/Kaustubh-Wadagavi/Working-And-Self-Learning-In-Professional-World/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Self-learning and working proactively in the professional world is very important. If your attitude is wrong, then you will be kicked out. I've learned some thoughts on this topic, which I'm mentioning below:**
 
-### Markdown
+**1. Never Make Assumptions**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first lesson is never to make assumptions. For e.g., If we have any questions while working, then we've to ask this immediately to our seniors or experienced guys. If we think about why we ask him/her? What will they think about me after asking the questions? Don't assume like this. Ask questions directly whatever question you have.
 
-```markdown
-Syntax highlighted code block
+![alt text](https://github.com/Kaustubh-Wadagavi/Working-and-Self-Learning-In-Professional-World./blob/main/Assume.jpeg)
 
-# Header 1
-## Header 2
-### Header 3
+After asking the question, don't wait for a reply like the Government office. Questions should be gets solved quickly. If they don't reply to your questions, then ask them repeatedly. Never assume he/she will busy. Remind them. If we need to work in the professional world, then we've to proactive about our questions.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**2. Understanding the Task**
 
-**Bold** and _Italic_ and `Code` text
+If you get the task, don't directly move on your task. Divide the task into the smallest tasks. Write a mail to your senior about what you've understood about your task. Try to search more about the task on the internet. Collect information about it, write down notes in the notebook, which is the primary task. Confirm what you've understood about it by discussing it with your seniors. Try to find more shreds of evidence, confirm you are going on the right path. If your senior is telling you wrong, send him evidence, and explain what is right or wrong. This is the primary task.
 
-[Link](url) and ![Image](src)
-```
+![alt text](https://github.com/Kaustubh-Wadagavi/Working-and-Self-Learning-In-Professional-World./blob/main/Understand.jpeg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Once done with it, then start to do the task. If you are stuck somewhere, you have to solve that problem by asking your seniors immediately. Don't stick to the same problem. This is all about understanding and solving the task.
 
-### Jekyll Themes
+**3. Self Learning**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kaustubh-Wadagavi/Working-And-Self-Learning-In-Professional-World/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Self-learning is very important in the professional world. We have to set daily goals. To self learn, we have to adjust our hectic schedule, workload. We need to read at least one chapter daily before going to sleep. Also, we need to give a mental break to let our mind rest. We need to review our learning on the same day. Self-studying is a useful tool to enhance any learning experience. When we learn ourselves, then we understand better than studying with others. 
 
-### Support or Contact
+![alt text](https://github.com/Kaustubh-Wadagavi/Working-and-Self-Learning-In-Professional-World./blob/main/Self.jpeg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+While self-studying, if we have a question, search on google, ask experts, and understand every concept deeply. Confirm your thinking is correct, discuss your learning with your friends and colleagues. It will enhance your knowledge.
+
+**4. Proactiveness**
+
+We have to proactive about our every work. Asking your friends and colleagues what they are doing? What is the benefit of that work? Also, we need to improve our proactiveness daily. Think daily about what I did? and what I need to improve daily. 
+
+![alt text](https://github.com/Kaustubh-Wadagavi/Working-and-Self-Learning-In-Professional-World./blob/main/Proactive.png)
+
+Remember, before sleeping, what you did? And what you need to improve your work. It will enhance your self-development.
+
+
+
+
+
+
